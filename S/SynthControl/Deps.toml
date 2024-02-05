@@ -22,3 +22,9 @@ DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 HiGHS = "87dc4568-4c63-4d18-b0c0-bb2238e4078b"
 JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
 PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+
+["0.4.3-0"]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+FixedEffectModels = "9d5cd8c9-2029-5cab-9928-427838db53e3"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
